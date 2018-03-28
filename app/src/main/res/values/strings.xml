@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UnitTestApp</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="hint_password">Enter 8 digit Password</string>
+    <string name="submit">SUBMIT</string>
+    <string name="login">LOG IN</string>
+    <string name="logout">LOG OUT</string>
+    <string name="email">Email ID</string>
+    <string name="hello">Android Studio</string>
+    <string name="welcome">WELCOME</string>
+    <string name="click">CLICK</string>
+    <string name="result">RESULTS-2015</string>
+    <string name="third">There is no Notification</string>
+</resources>
